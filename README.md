@@ -1,1 +1,1 @@
-# my-test-lab 수정ss local 수정
+# my-test-lab 수정 화면에서 직접 수정 + local 수정
